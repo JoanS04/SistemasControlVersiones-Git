@@ -1,0 +1,6 @@
+Aquests són els comandos utilitzats per a sincronitzar repositoris remots i locals:
+
+1. Git remote
+2. Git clone
+3. Git push
+4. Git pull
