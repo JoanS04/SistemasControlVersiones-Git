@@ -1,0 +1,1 @@
+El control de versiones (también conocido como versionado o gestión de versiones) es un sistema que permite gestionar y controlar los cambios realizados sobre un conjunto de archivos o documentos a lo largo del tiempo.
